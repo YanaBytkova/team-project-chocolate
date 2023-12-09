@@ -4,8 +4,7 @@
   "description": "",
   "homepage": "https://yanabytkova.github.io/team-project-chocolate",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html"
+    "build": "parcel build src/*.html --public-url /team-project-chocolate/"
   },
   
   "keywords": [],
