@@ -2,7 +2,7 @@
   "name": "team-project-chocolate",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yanabytkova.github.io/team-project-chocolate",
+  "homepage": "https://yanabytkova.github.io/team-project-chocolate/",
   "scripts": {
     "build": "parcel build src/*.html --public-url /team-project-chocolate/"
   },
